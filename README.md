@@ -1,1 +1,3 @@
-# Snake_Game
+# SnakeGame
+
+Implementation of the classic Snake game using TypeScript
